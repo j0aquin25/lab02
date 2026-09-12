@@ -83,9 +83,9 @@ En docker existen tres formas de gestionar el almacenamiento de datos:
 * **Persistencia del volumen tras destruir los contenedores**
 ![](docs/imagen1.png)
 * **Las tres réplicas responden con hostname distinto**
-![](docs/imagen2.png)
-![](docs/imagen3.png)
-![](docs/imagen4.png)
+![](docs/Imagen2.png)
+![](docs/Imagen3.png)
+![](docs/Imagen4.png)
 
 ### Datos del estudiante
 * **Apellido y Nombres**: Clavijo Diaz, Cesar Joaquin
