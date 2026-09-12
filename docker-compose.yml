@@ -4,4 +4,4 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - MESSAGE=Cesar Joaquin Clavijo Diaz
+      - MESSAGE=${MESSAGE}
